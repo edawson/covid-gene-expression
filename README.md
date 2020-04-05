@@ -5,6 +5,11 @@ Hackathon team: gene expression analysis for Covid-19 Virtual Biohackathon (vBH)
 https://github.com/virtual-biohackathons/covid-19-bh20
 ### Official Gene Expression Work Group Page (Public page)
 https://github.com/virtual-biohackathons/covid-19-bh20/wiki/GeneExpression
+### Project boards for task tracking
+https://github.com/avantikalal/covid-gene-expression/projects
+#### Task boards for individual sub-projects
+1. Analysis of RNA-seq data from virus-infected cells: https://github.com/avantikalal/covid-gene-expression/projects/1
+2. Search for interactions between human RNA-binding proteins and SARS-CoV-2: https://github.com/avantikalal/covid-gene-expression/projects/1
 
 ## Main Objective
 We want to perform RNAseq-based analyses on published datasets in order to better understand the interaction between human host and virus.
@@ -18,8 +23,6 @@ We want to perform RNAseq-based analyses on published datasets in order to bette
 _Biological:_ Perform a global RNA-Seq analysis with SARS-CoV-2 infected datasets to search for new candidate genes for testing experimentally
 
 _Methodological:_ Create a packaged reproducible pipeline in Docker to help scientists to easily treat their RNA-Seq data and for us if any new dataset comes out
-
-[Tasks](https://github.com/avantikalal/covid-gene-expression/projects/1)
 
 ## Workflow
 0. Check literature to select interesting genes/datasets to study
